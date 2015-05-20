@@ -1,0 +1,1 @@
+Programa completo que gerencia arquivo e produção da central de regulação.
